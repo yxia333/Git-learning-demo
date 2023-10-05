@@ -2,3 +2,4 @@
 
 
 xiaoming typed a line
+xiaowang typed a line
